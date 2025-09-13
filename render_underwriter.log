@@ -1,0 +1,16 @@
+2025-09-13 19:52:54,566 - __main__ - INFO - Initializing Render PostgreSQL Underwriting Agent...
+2025-09-13 19:53:12,432 - strands.telemetry.metrics - INFO - Creating Strands MetricsClient
+2025-09-13 19:53:13,301 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:53:14,917 - __main__ - INFO - Database tables created/verified successfully
+2025-09-13 19:53:15,745 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:55:21,961 - openai._base_client - INFO - Retrying request to /chat/completions in 0.376861 seconds
+2025-09-13 19:55:22,589 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:55:24,262 - __main__ - INFO - Database tables created/verified successfully
+2025-09-13 19:55:53,267 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:56:13,857 - openai._base_client - INFO - Retrying request to /chat/completions in 0.490826 seconds
+2025-09-13 19:56:14,811 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:56:16,499 - __main__ - INFO - Database tables created/verified successfully
+2025-09-13 19:56:22,126 - __main__ - ERROR - Error processing policy 16: 'NoneType' object has no attribute 'upper'
+2025-09-13 19:56:25,090 - __main__ - ERROR - Error processing policy 11: 'NoneType' object has no attribute 'upper'
+2025-09-13 19:56:36,381 - __main__ - ERROR - Error processing policy 10: 'NoneType' object has no attribute 'upper'
+2025-09-13 19:56:42,034 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
