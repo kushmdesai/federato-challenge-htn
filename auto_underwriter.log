@@ -1,0 +1,6 @@
+2025-09-13 19:40:06,139 - __main__ - INFO - Initializing Automatic Underwriting Agent...
+2025-09-13 19:40:06,412 - __main__ - INFO - Automatic underwriting agent ready
+2025-09-13 19:40:22,430 - __main__ - INFO - User input: underwrite all ap[lications
+2025-09-13 19:40:22,435 - strands.telemetry.metrics - INFO - Creating Strands MetricsClient
+2025-09-13 19:40:23,093 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:40:44,004 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"

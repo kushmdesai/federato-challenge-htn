@@ -1,0 +1,36 @@
+2025-09-13 19:18:48,022 - strands.telemetry.metrics - INFO - Creating Strands MetricsClient
+2025-09-13 19:18:48,744 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:18:54,311 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:21:21,882 - __main__ - INFO -  Initializing OpenAI model with Cohere API...
+2025-09-13 19:21:22,154 - __main__ - INFO -  Creating agent with tools...
+2025-09-13 19:21:22,155 - __main__ - INFO -  Agent ready for user interaction
+2025-09-13 19:21:32,999 - __main__ - INFO -   User input: fetch data and save to db
+2025-09-13 19:21:33,006 - strands.telemetry.metrics - INFO - Creating Strands MetricsClient
+2025-09-13 19:21:33,697 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:21:39,624 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:21:41,006 - __main__ - INFO -  Agent response length: 162 characters
+2025-09-13 19:23:11,432 - __main__ - INFO -  Initializing OpenAI model with Cohere API...
+2025-09-13 19:23:11,687 - __main__ - INFO -  Creating agent with tools...
+2025-09-13 19:23:11,689 - __main__ - INFO -  Agent ready for user interaction
+2025-09-13 19:23:18,004 - __main__ - INFO -   User input: fetch data and save to db
+2025-09-13 19:23:18,010 - strands.telemetry.metrics - INFO - Creating Strands MetricsClient
+2025-09-13 19:23:18,832 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:23:24,231 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:23:24,508 - __main__ - INFO -  Agent response length: 72 characters
+2025-09-13 19:27:33,844 - __main__ - INFO -  Initializing OpenAI model with Cohere API...
+2025-09-13 19:27:34,113 - __main__ - INFO -  Creating agent with tools...
+2025-09-13 19:27:34,113 - __main__ - ERROR -  Error initializing agent: name 'get_and_save_policies_to_db' is not defined
+2025-09-13 19:27:34,114 - __main__ - ERROR - Stack trace: Traceback (most recent call last):
+  File "C:\Users\Kush\development\federato-challenge\agent.py", line 244, in <module>
+    agent = Agent(model=model, tools=[read_underwriting_rules, get_and_save_policies_to_db])
+                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'get_and_save_policies_to_db' is not defined. Did you mean: 'get_and_save_all_policies_to_db'?
+
+2025-09-13 19:27:51,647 - __main__ - INFO -  Initializing OpenAI model with Cohere API...
+2025-09-13 19:27:52,036 - __main__ - INFO -  Creating agent with tools...
+2025-09-13 19:27:52,037 - __main__ - INFO -  Agent ready for user interaction
+2025-09-13 19:28:03,023 - __main__ - INFO -   User input: fetch all polices and save them to the db
+2025-09-13 19:28:03,029 - strands.telemetry.metrics - INFO - Creating Strands MetricsClient
+2025-09-13 19:28:03,860 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:28:25,423 - httpx - INFO - HTTP Request: POST https://api.cohere.ai/compatibility/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-13 19:28:25,737 - __main__ - INFO -  Agent response length: 61 characters

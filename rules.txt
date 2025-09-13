@@ -1,0 +1,33 @@
+Underwriting Guidelines
+The following thresholds are in place to ensure a consistent and disciplined approach to risk
+selection.
+
+Submission Type:
+    New Business: Is Acceptable
+    Renewal Business: Not Acceptable
+Line of Business
+    Property Line of Business: Is Acceptable
+    All other Lines: Not Acceptable
+● Primary Risk State:
+    Acceptable states:OH, PA, MD, CO, CA, FL NC, SC, GA, VA, UT
+    Target States: OH, PA, MD, CO, CA, FL
+    Not Acceptable states: All other states
+● TIV Limits:
+    Up to $150,000,000: Is Acceptable
+    Between $50,000,000 - $100,000,000: Is our target TIV
+    Over $150,000,000: Is Not acceptable
+● Total Premium:
+    $50,000 to $175,000: Is Acceptable
+    $75,000 to $100,000: Is our target
+    Less than $50,000 & Greater than $175,000: Is not acceptable
+● Building Age:
+    Building age newer than 1990: Is Acceptable
+    Building age new then 2010: Is out target
+    Building age older than 1990: Not Acceptable
+● Construction Type
+    If Greater than 50% of the construction types are JM, Non
+    Combustible/Steel, Masonry Non Combustible: Is Acceptable
+    If Greater than 50% of the construction types are other: Not Acceptable
+● Loss Value:
+    Loss value less than $100,000: Is Acceptable
+    Loss value greater than $100,000: Not Acceptable
